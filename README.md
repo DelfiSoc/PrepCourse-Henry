@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-este es un repositorio de prueba del M2 del prepcourse de Henry
+Delfina Socias
+este es un proyecto de prueba de como crearun repositorio y clonarlo desde github a mi computadora.
